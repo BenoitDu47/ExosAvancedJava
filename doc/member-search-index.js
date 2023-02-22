@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"fr.ldnr.Exception","c":"TestException","l":"TestException()","u":"%3Cinit%3E()"}];updateSearchResults();
